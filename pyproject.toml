@@ -1,0 +1,3 @@
+#Point the fast api entry poit
+[tool.fastapi]
+entrypoint = "rag_queue.server:app"
